@@ -1,7 +1,7 @@
 Install dependencies:
 pip install scikit-learn
 
-SET 2: Problem Statement: Clean & Optimize an AI-Based Food Recommendation System
+Problem Statement: Clean & Optimize an AI-Based Food Recommendation System
 Scenario:
 You are given a messy and unoptimized AI/ML codebase for a Food Recommendation System.
 The system takes Mood, Time, Food Preference and predicts a food item using a Machine Learning model.
